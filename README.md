@@ -72,8 +72,7 @@
   </style>
 </head>
 <body>
-
-  <header>
+  
     <h1>ProFinish Detailing</h1>
     <p>Premium Detailing Without the Hype – Just Results</p>
   </header>
