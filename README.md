@@ -104,7 +104,7 @@
   </div>
 
   <footer>
-    <p>Book now or call us at (555) 123-4567 | © 2025 Shine Pro Detailing</p>
+    <p>Book now or call us at (669)302-0379 | © 2025 Shine Pro Detailing</p>
   </footer>
 
 </body>
